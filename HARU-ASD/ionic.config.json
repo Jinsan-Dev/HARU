@@ -1,0 +1,9 @@
+{
+  "name": "harucard",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "ionic-angular",
+  "id": "c9cd845b"
+}
